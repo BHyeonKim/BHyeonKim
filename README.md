@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="width: 50rem" src="https://wakatime.com/share/@KimBoBo/644f896a-a3f8-43be-a9a6-510c201b2be0.svg"></img>
-<img src="https://wakatime.com/share/@KimBoBo/076e48c6-e3dd-42cc-b0af-af2962e348ca.svg"></img>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHyeonKim)](https://github.com/anuraghazra/github-readme-stats)
