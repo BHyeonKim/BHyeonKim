@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHyeonKim&show_icons=true&theme=dark)
 ](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-🌆 Daytime    111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
-🌃 Evening    153 commits    ███████░░░░░░░░░░░░░░░░░░   31.03% 
-🌙 Night      174 commits    ████████░░░░░░░░░░░░░░░░░   35.29%
-
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,6 +38,6 @@ Mac                      3 hrs 35 mins       ███████████�
 ```
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
