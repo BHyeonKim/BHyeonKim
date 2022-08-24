@@ -54,7 +54,7 @@
 </div>
 
 ###
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
+</p>
 ###
