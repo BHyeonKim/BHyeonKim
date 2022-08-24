@@ -1,19 +1,22 @@
-<h1 align="left"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%8C%80%ED%95%99%EC%83%9D%2C+%EA%B9%80%EB%B3%B4%ED%98%84+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a></h1>
+<h1 align="left"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000000000&center=true&width=435&lines=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%8C%80%ED%95%99%EC%83%9D%2C+%EA%B9%80%EB%B3%B4%ED%98%84+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a></h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000000000&color=FFFFFF&width=435&lines=About+me" alt="Typing SVG" /></a>
 
 ###
 
-<p align="left">✨ Creating bugs since 2017...
-<br>📚 I'm currently learning StoryBook and React...
-<br>🎯 Goals: Buy a house in Saipan.
-<br>🎲 Fun fact: I'm a noob...</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=11000&pause=10000000000&color=FFFFFF&width=435&lines=%E2%9C%A8+Creating+bugs+since+2017..." alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=13000&pause=10000000000&color=FFFFFF&width=600&lines=%F0%9F%93%9A+I'm+currently+learning+StoryBook+and+React..." alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=10000000000&color=FFFFFF&width=600&lines=%F0%9F%8E%AF+Goals%3A+Buy+a+house+in+Saipan." alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=17000&pause=10000000000&color=FFFFFF&width=435&lines=%F0%9F%8E%B2+Fun+fact%3A+I'm+a+noob..." alt="Typing SVG" /></a>
 
 ###
 
-<h2 align="left">I code with</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000000000&color=FFFFFF&width=600&lines=I+code+with" alt="Typing SVG" /></a>
 
 ###
 
@@ -30,7 +33,7 @@
 
 ###
 
-<h2 align="left">I'm interested in</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000000000&color=FFFFFF&width=600&lines=I'm+interested+in" alt="Typing SVG" /></a>
 
 ###
 
@@ -44,7 +47,7 @@
 ###
 
 
-<h2 align="left">My github stats</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000000000&color=FFFFFF&width=600&lines=My+github+stats" alt="Typing SVG" /></a>
 
 ###
 
