@@ -54,7 +54,11 @@
 </div>
 
 ###
-<p align="center">
-  <img src="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
-</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.gif">
+  <img alt="Contribution snake" src="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
