@@ -22,18 +22,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=13000&pause=10000000000&color=FFFFFF&width=600&lines=%F0%9F%93%9A+I'm+currently+learning+StoryBook+and+React..." alt="Typing SVG" />
 </picture>
 
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=10000000000&color=000000&width=600&lines=%F0%9F%8E%AF+Goals%3A+Buy+a+house+in+Saipan.">
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=10000000000&color=FFFFFF&width=600&lines=%F0%9F%8E%AF+Goals%3A+Buy+a+house+in+Saipan.">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=10000000000&color=FFFFFF&width=600&lines=%F0%9F%8E%AF+Goals%3A+Buy+a+house+in+Saipan." alt="Typing SVG" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=17000&pause=10000000000&color=000000&width=435&lines=%F0%9F%8E%B2+Fun+fact%3A+I'm+a+noob...">
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=17000&pause=10000000000&color=FFFFFF&width=435&lines=%F0%9F%8E%B2+Fun+fact%3A+I'm+a+noob...">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=17000&pause=10000000000&color=FFFFFF&width=435&lines=%F0%9F%8E%B2+Fun+fact%3A+I'm+a+noob..." alt="Typing SVG" />
-</picture>
-
 ###
 
 <picture>
