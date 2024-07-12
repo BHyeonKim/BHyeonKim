@@ -77,10 +77,14 @@
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.gif">
-  <img alt="Contribution snake" src="https://github.com/BHyeonKim/BHyeonKim/blob/output/github-contribution-grid-snake.svg">
-</picture>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/BHyeonKim?pet-id=599454414746909308"
+    width="600"
+    height="300"
+  />
+</a>
+  
 
 ###
