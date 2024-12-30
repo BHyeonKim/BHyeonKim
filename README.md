@@ -2,11 +2,11 @@
 <p> </p>
 <h3 align="left">프론트엔드 개발자 보현입니다.<br/>기본에 충실하면서도, 빠르게 발전하는 프론트엔드 생태계의 트랜드를 따라갈 수 있는 개발자가 되도록 노력하고 있습니다.</h3>
 <p> </p>
-<h2>Education</h2>
+<h2>🎓 Education</h2>
 <p>2024.01 - 2024.12 : 삼성 청년 SW 아카데미 11기</p>
 <p>2022.05 - 2022.06 : 원티드 프리온보딩 프론트엔드 4기</p>
 <p>2017.03 - 2024.02 : 명지대학교 컴퓨터공학과</p>
-<h2>Experience</h2>
+<h2>💼 Experience</h2>
 <p>2023.01 - 2023.04 : CMC 12기</p>
 <p>2022.10 - 2023.04 : GDSC mju 1기</p>
 <p>2022.03 - 2022.10 : 멋쟁이 사자처럼 mju 10기</p>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-React%20Query-000?&amp;logo=reactquery" alt="react query">
 <img src="https://img.shields.io/badge/-Storybook-000?&amp;logo=storybook" alt="storybook">
 </p>
-<h3>Dev tools:</h3>
+<h3>⚒️ Dev tools:</h3>
 <p>
 <img src="https://img.shields.io/badge/-Eslint-000?&amp;logo=eslint" alt="eslint">
 <img src="https://img.shields.io/badge/-Prettier-000?&amp;logo=prettier" alt="prettier">
@@ -62,5 +62,4 @@
 </p>
 <p> </p>
 <h2 id="-my-github-stats-and-activity">📈Activity</h2>
-<h3 id="-profile-stats">💻 Profile Stats</h3>
 <p><img alt="BoHyunKim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=BHyeonKim&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHyeonKim&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
