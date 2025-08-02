@@ -10,6 +10,9 @@
 <p>2023.01 - 2023.04 : CMC 12기</p>
 <p>2022.10 - 2023.04 : GDSC mju 1기</p>
 <p>2022.03 - 2022.10 : 멋쟁이 사자처럼 mju 10기</p>
+<h2>🪪 Certificates</h2>
+<p>정보처리기사 2025.09.12 : (예정...)</p>
+<p>SQLD : 2025.06.27</p>
 <p> </p>
 <h2 id="️-my-skills">🛠️ Skills</h2>
 <h3 id="programming-languages">Programming languages:</h3>
